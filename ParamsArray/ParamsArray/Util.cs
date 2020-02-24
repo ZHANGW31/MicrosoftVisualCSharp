@@ -10,11 +10,11 @@ namespace ParamsArray
     {
         public static int Sum(params int[] paramList)
         {
-            if (paramList == null)
+            if (paramList == null) //Throws exception when the method sum is called with a null
             {
                 throw new ArgumentException("Util.Sum = null parameter list");
             }
-            if (paramList.Length == 0)
+            if (paramList.Length == 0) //Throws exception when the method called without arguments
             {
                 throw new ArgumentException("Util.Sum: empty parameter list");
             }
