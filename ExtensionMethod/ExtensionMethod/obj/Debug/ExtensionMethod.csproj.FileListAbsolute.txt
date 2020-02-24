@@ -1,0 +1,6 @@
+C:\Users\weizh\OneDrive\Documents\Code_Files_Sharp_SBS_9E_v2 2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\weizh\OneDrive\Documents\Code_Files_Sharp_SBS_9E_v2 2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\weizh\OneDrive\Documents\Code_Files_Sharp_SBS_9E_v2 2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\weizh\OneDrive\Documents\Code_Files_Sharp_SBS_9E_v2 2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\weizh\OneDrive\Documents\Code_Files_Sharp_SBS_9E_v2 2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\weizh\OneDrive\Documents\Code_Files_Sharp_SBS_9E_v2 2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
